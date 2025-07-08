@@ -6,7 +6,7 @@ A powerful, Streamlit-based application that leverages AI agents to deliver comp
 
 ## 🚀 Features
 
-- **Multi-Agent System** using [Phi](https://github.com/inflection-ai/phi)
+- **Multi-Agent System** using Phidata framework
 - Integrated with **Groq's LLaMA3 models**
 - Real-time **stock data**, **analyst recommendations**, **financial fundamentals**
 - **Web search** using DuckDuckGo API for latest news
